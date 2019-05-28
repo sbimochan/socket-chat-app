@@ -15,4 +15,4 @@ Test it out
 curl localhost:3000
 ```
 Check server log.
-Now open two tabs with same url: localhost:3000 and chat with youself. :P
+Now open two tabs with same url i.e localhost:3000 and chat with yourself. 😛
