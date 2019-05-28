@@ -2,11 +2,13 @@
 
 Install dependencies
 ```shell
-npm install```
+npm install
+```
 
 start server
 ```shell
-node index.js```
+node index.js
+```
 
 Test it out
 ```shell
